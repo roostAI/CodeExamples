@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/CodeExamples
+/src/packages/CommonServiceLocator.2.0.7
+/src/PluginInterface/bin/Debug
+/src/PluginInterface/obj/Debug
+/src/Plugins/Debug
+/src/RealtimePlugin/bin/Debug
+/src/RealtimePlugin/obj/Debug
+/src/SimpleClassLibrary/bin/Debug
+/src/SimpleClassLibrary/obj/Debug
+/src/SimpleConsoleApp/bin/Debug
+/src/SimpleConsoleApp/obj
+/src/SimulationPlugin/bin/Debug
+/src/SimulationPlugin/obj/Debug
