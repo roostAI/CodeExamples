@@ -17,7 +17,7 @@ namespace SimpleConsoleApp
 
 			var loader = new PluginLoader();
 
-			loader.PluginLocation = @"..\..\..\Plugins\Debug";
+			loader.PluginLocation = @"../Plugins/Debug/net6.0";
 
 			loader.Composer = new Composer();
 
