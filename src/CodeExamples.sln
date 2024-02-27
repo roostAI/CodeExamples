@@ -25,14 +25,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHashMap", "TestHashMap\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.CalculateUintCapacity", "HashMap.Test\HashMapNamespace.CalculateUintCapacity\HashMapNamespace.CalculateUintCapacity.csproj", "{4DC0AECB-322A-427A-B49B-FA54AF5A8D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.CalculateCapacity", "HashMap.Test\HashMapNamespace.CalculateCapacity\HashMapNamespace.CalculateCapacity.csproj", "{52CF5877-0FA0-482F-A9E8-137C1FF052EC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.ProvideCapacity", "HashMap.Test\HashMapNamespace.ProvideCapacity\HashMapNamespace.ProvideCapacity.csproj", "{6B3046FE-22DE-43B3-9335-83883D159BA1}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.CalculateCapacity", "HashMap.Test\HashMapNamespace.CalculateCapacity\HashMapNamespace.CalculateCapacity.csproj", "{52CF5877-0FA0-482F-A9E8-137C1FF052EC}"
+# EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.ProvideCapacity", "HashMap.Test\HashMapNamespace.ProvideCapacity\HashMapNamespace.ProvideCapacity.csproj", "{6B3046FE-22DE-43B3-9335-83883D159BA1}"
+# EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.Add", "HashMap.Test\HashMapNamespace.Add\HashMapNamespace.Add.csproj", "{8513B597-4E9C-44CD-809F-290F446E21E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.AddOrUpdate", "HashMap.Test\HashMapNamespace.AddOrUpdate\HashMapNamespace.AddOrUpdate.csproj", "{DD451542-3BE6-47B2-8D29-B614A0EE2F6B}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.AddOrUpdate", "HashMap.Test\HashMapNamespace.AddOrUpdate\HashMapNamespace.AddOrUpdate.csproj", "{DD451542-3BE6-47B2-8D29-B614A0EE2F6B}"
+# EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.Remove", "HashMap.Test\HashMapNamespace.Remove\HashMapNamespace.Remove.csproj", "{2FB8A7E4-D031-466B-8834-DA4DA8265808}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.ContainsKey", "HashMap.Test\HashMapNamespace.ContainsKey\HashMapNamespace.ContainsKey.csproj", "{49821606-F17E-4E4A-A1D0-5F5D052120F9}"
@@ -45,18 +45,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.GetEnumera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.HashMap64Node", "HashMap.Test\HashMapNamespace.HashMap64Node\HashMapNamespace.HashMap64Node.csproj", "{1ABBB916-2C9C-4558-95EE-EDDCEBB4A8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.ToString", "HashMap.Test\HashMapNamespace.ToString\HashMapNamespace.ToString.csproj", "{393CAC49-92C5-44D5-9019-96179864A0FF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtimePlugin.Run", "RealtimePlugin.Test\RealtimePlugin.Run\RealtimePlugin.Run.csproj", "{75DCAF84-C05A-4CFD-A0EF-A03426D009D4}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMapNamespace.ToString", "HashMap.Test\HashMapNamespace.ToString\HashMapNamespace.ToString.csproj", "{393CAC49-92C5-44D5-9019-96179864A0FF}"
+# EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtimePlugin.Run", "RealtimePlugin.Test\RealtimePlugin.Run\RealtimePlugin.Run.csproj", "{75DCAF84-C05A-4CFD-A0EF-A03426D009D4}"
+# EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassLibrary.ComposePlugins", "SimpleClassLibrary.Test\SimpleClassLibrary.ComposePlugins\SimpleClassLibrary.ComposePlugins.csproj", "{EF2FF9B2-CE63-4261-B1B3-931D8491428E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassLibrary.LoadAndRunPlugins", "SimpleClassLibrary.Test\SimpleClassLibrary.LoadAndRunPlugins\SimpleClassLibrary.LoadAndRunPlugins.csproj", "{0B70D31A-0736-434E-A7E3-3A460F050CB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsoleApp.typeof", "SimpleConsoleApp.Test\SimpleConsoleApp.typeof\SimpleConsoleApp.typeof.csproj", "{A578A014-9E4E-4033-A67D-37D912AAAEB9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulationPlugin.Run", "SimulationPlugin.Test\SimulationPlugin.Run\SimulationPlugin.Run.csproj", "{9F774258-DD1F-49D7-B82B-0A59D3D7D594}"
-EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsoleApp.typeof", "SimpleConsoleApp.Test\SimpleConsoleApp.typeof\SimpleConsoleApp.typeof.csproj", "{A578A014-9E4E-4033-A67D-37D912AAAEB9}"
+# EndProject
+# Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulationPlugin.Run", "SimulationPlugin.Test\SimulationPlugin.Run\SimulationPlugin.Run.csproj", "{9F774258-DD1F-49D7-B82B-0A59D3D7D594}"
+# EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
